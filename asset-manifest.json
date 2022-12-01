@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/router-example/static/css/main.52eb3432.css",
+    "main.js": "/router-example/static/js/main.310a6ca8.js",
+    "index.html": "/router-example/index.html",
+    "main.52eb3432.css.map": "/router-example/static/css/main.52eb3432.css.map",
+    "main.310a6ca8.js.map": "/router-example/static/js/main.310a6ca8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52eb3432.css",
+    "static/js/main.310a6ca8.js"
+  ]
+}
