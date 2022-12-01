@@ -6,7 +6,7 @@ import Kitten from "./pages/Kitten";
 function App() {
   return (
     <div className="app">
-      <Router>
+      <Router basename="/router-example">
         <Navbar/>
         <Routes>
           <Route path="/" element={<Home/>}/>
